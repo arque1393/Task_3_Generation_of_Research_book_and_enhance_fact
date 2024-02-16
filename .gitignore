@@ -1,2 +1,4 @@
 __secreat*
-.vscode
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
